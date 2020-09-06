@@ -1,4 +1,4 @@
-from credentials import , Credentials
+from credentials import User, Credentials
 
 
 def create_new_user(username,password):
