@@ -32,7 +32,7 @@ class User:
         '''
         User.user_list.remove(self)
 
-class Credentials():
+# class Credentials():
     """
     Create credentials class to help create new objects of credentials
     """
