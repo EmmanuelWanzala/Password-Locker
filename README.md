@@ -17,3 +17,7 @@ The project runs on a terminal and was created using python3.8.5
 (MIT LICENSE](https://spdx.org/licenses/MIT.html)
 
 ## AUTHOR
+
+Emmanuel John Wanzala
+
+## CONTACTS
