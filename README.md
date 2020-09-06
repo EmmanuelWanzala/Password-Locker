@@ -21,3 +21,5 @@ The project runs on a terminal and was created using python3.8.5
 Emmanuel John Wanzala
 
 ## CONTACTS
+
+wanzalaemmanuel28@gmail.com
