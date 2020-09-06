@@ -14,6 +14,6 @@ The project runs on a terminal and was created using python3.8.5
 
 ## LICENSE
 
-MIT LICENSE
+(MIT LICENSE](https://spdx.org/licenses/MIT.html)
 
 ## AUTHOR
