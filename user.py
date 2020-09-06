@@ -177,7 +177,7 @@ def passlocker():
         elif short_code == 'ex':
             print("Thanks for using passwords store manager.. See you next time!")
             break
-        else:
+        # else:
             print("Wrong entry... Check your entry again and let it match those in the menu")
     else:
         print("Please enter a valid input to continue")
