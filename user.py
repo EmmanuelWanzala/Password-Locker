@@ -77,7 +77,7 @@ def copy_password(account):
 
 
 def passlocker():
-    print("Hello Welcome to your Accounts Password Store...\n Please enter one of the following to proceed.\n CA ---  Create New Account  \n LI ---  Have An Account  \n")
+    print("Hello Welcome to your Accounts Password Store...\n Please enter one of the following to proceed.\n ca ---  Create a new account  \n LI ---  I already have an account  \n")
     short_code=input("").lower().strip()
     if short_code == "ca":
         print("Sign Up")
@@ -96,7 +96,7 @@ def passlocker():
                 print("Invalid password please try again")
         save_user(create_new_user(username,password))
         print("*"*85)
-        print(f"Hello {username}, Your account has been created succesfully! Your password is: {password}")
+        print(f"Hello {username}, Your account has been succesfully created! Your password is: {password}")
         print("*"*85)
     elif short_code == "li":
         print("*"*50)
@@ -109,7 +109,7 @@ def passlocker():
             print(f"Hello {username}.Welcome To PassWord Locker Manager")  
             print('\n')
     while True:
-        print("Use these short codes:\n CC - Create a new credential \n DC - Display Credentials \n FC - Find a credential \n GP - Generate A randomn password \n D - Delete credential \n EX - Exit the application \n")
+        print("Use these short codes:\n cc - Create a new credential \n dc - Display Credentials \n fc - Find a credential \n gp - Generate A randomn password \n d - Delete credential \n ex - Exit the application \n")
         short_code = input().lower().strip()
         if short_code == "cc":
             print("Create New Credential")
