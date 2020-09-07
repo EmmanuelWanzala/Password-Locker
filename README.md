@@ -8,8 +8,18 @@ This is an application that allows users to create accountsand to store password
 The project runs on a terminal and was created using python3.8.5
 
 
-## A SCREENSHOT OF THE PROJECT
+## SET UP INSTRUCTIONS
 
+-Click on the green button written clone
+
+-Run the following command on the terminal
+
+`git clone https://github.com/EmmanuelWanzala/Password-Locker.git`
+
+
+## TECHNOLOGIES USED
+
+Python3.8.5
 
 
 ## LICENSE
